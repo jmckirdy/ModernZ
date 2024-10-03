@@ -42,7 +42,7 @@ require_once('db.inc.php');
       $prepared->setFetchMode(PDO::FETCH_ASSOC);
       echo "<table>";
         echo "<tr>";
-          echo "<th>Movie Id</th>";
+          echo "<th>THEMovie Id</th>";
           echo "<th>Year</th>";
           echo "<th>Title</th>";
           echo "<th>Genre</th>";

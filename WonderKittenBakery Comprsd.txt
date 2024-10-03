@@ -1,0 +1,3 @@
+show bz2, gz, xz compression scores here by running tests on command line
+
+ie: file bz2 fileoutputsrc            and/or from command line book.

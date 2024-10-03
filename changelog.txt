@@ -20,3 +20,4 @@ OR Microwave, wireless
 but why? what else?
 
 -new git test 10-03
+-added WKB-comprsd.txt for compression testing utf-8 text data. it's gonna be FUN ON THE BUN!
